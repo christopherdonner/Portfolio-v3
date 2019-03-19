@@ -1,12 +1,8 @@
 {
   "development": {
     "username": "root",
-    "password": null,
-<<<<<<< HEAD
+    "password": "P@ssw0rd",
     "database": "christopherContacts",
-=======
-    "database": "exampledb",
->>>>>>> eff23fd170162326fcee090a2d372896e6e93416
     "host": "localhost",
     "dialect": "mysql"
   },
