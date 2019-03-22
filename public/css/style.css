@@ -1,14 +1,18 @@
-header {
+/* header {
     background-color: green;
+} */
+
+.jumbotron
+{
+    margin: 0px;
+    border: 0px;
+    padding: 10px
 }
 
-<<<<<<< HEAD
 .navbar
 {
     z-index: 1000;
 }
-=======
->>>>>>> eff23fd170162326fcee090a2d372896e6e93416
 h1 {
     font-family: Niramit;
     font-weight: bold;
@@ -22,10 +26,7 @@ h1 {
 
 body {
     font-family: Montserrat;
-<<<<<<< HEAD
     color: black;
-=======
->>>>>>> eff23fd170162326fcee090a2d372896e6e93416
 }
 
 footer {
