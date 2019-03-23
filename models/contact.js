@@ -7,7 +7,7 @@ module.exports = function(sequelize, DataTypes) {
     },
     name: DataTypes.STRING,
     email: DataTypes.STRING,
-    text: DataTypes.TEXT,
+    text: DataTypes.TEXT
   });
   return Contact;
 };
