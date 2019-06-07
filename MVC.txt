@@ -1,0 +1,100 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 26E1-3E10
+
+ Directory of C:\Users\cdonner\Documents\bootcamp\Portfolio-v3
+
+ Directory of C:\Users\cdonner\Documents\bootcamp\Portfolio-v3\config
+
+03/19/19  08:02 AM    <DIR>          .
+03/19/19  08:02 AM    <DIR>          ..
+03/19/19  08:52 AM               409 config.json
+               1 File(s)            409 bytes
+
+ Directory of C:\Users\cdonner\Documents\bootcamp\Portfolio-v3\models
+
+03/19/19  08:57 AM    <DIR>          .
+03/19/19  08:57 AM    <DIR>          ..
+03/19/19  08:02 AM               304 contact.js
+03/18/19  10:29 AM               983 index.js
+03/19/19  08:02 AM               271 schema.sql
+               3 File(s)          1,558 bytes
+
+ Directory of C:\Users\cdonner\Documents\bootcamp\Portfolio-v3\node_modules
+
+03/22/19  09:53 AM    <DIR>          .
+03/22/19  09:53 AM    <DIR>          ..
+03/22/19  09:53 AM    <DIR>          @types
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\cdonner\Documents\bootcamp\Portfolio-v3\public
+
+03/19/19  10:23 AM    <DIR>          .
+03/19/19  10:23 AM    <DIR>          ..
+03/19/19  08:02 AM    <DIR>          css
+03/18/19  10:34 AM    <DIR>          images
+03/18/19  10:33 AM    <DIR>          js
+03/18/19  10:33 AM    <DIR>          styles
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\cdonner\Documents\bootcamp\Portfolio-v3\public\css
+
+03/19/19  08:02 AM    <DIR>          .
+03/19/19  08:02 AM    <DIR>          ..
+03/21/19  11:42 AM               642 style.css
+               1 File(s)            642 bytes
+
+ Directory of C:\Users\cdonner\Documents\bootcamp\Portfolio-v3\public\images
+
+03/18/19  10:34 AM    <DIR>          .
+03/18/19  10:34 AM    <DIR>          ..
+11/19/18  03:02 PM           640,188 dundas.jpg
+11/19/18  03:02 PM           115,650 dundassmall.jpg
+01/24/19  10:52 AM         1,065,792 giftastic.png
+01/24/19  10:49 AM            88,424 thermostat.png
+01/24/19  10:54 AM         1,353,495 trivia.png
+               5 File(s)      3,263,549 bytes
+
+ Directory of C:\Users\cdonner\Documents\bootcamp\Portfolio-v3\public\js
+
+03/18/19  10:33 AM    <DIR>          .
+03/18/19  10:33 AM    <DIR>          ..
+03/18/19  10:29 AM             2,447 index.js
+               1 File(s)          2,447 bytes
+
+ Directory of C:\Users\cdonner\Documents\bootcamp\Portfolio-v3\public\styles
+
+03/18/19  10:33 AM    <DIR>          .
+03/18/19  10:33 AM    <DIR>          ..
+03/18/19  10:29 AM                41 styles.css
+               1 File(s)             41 bytes
+
+ Directory of C:\Users\cdonner\Documents\bootcamp\Portfolio-v3\routes
+
+03/18/19  10:33 AM    <DIR>          .
+03/18/19  10:33 AM    <DIR>          ..
+03/18/19  10:29 AM               621 apiRoutes.js
+03/22/19  08:33 AM               706 htmlRoutes.js
+               2 File(s)          1,327 bytes
+
+ Directory of C:\Users\cdonner\Documents\bootcamp\Portfolio-v3\views
+
+03/19/19  08:02 AM    <DIR>          .
+03/19/19  08:02 AM    <DIR>          ..
+03/22/19  08:33 AM               201 404.handlebars
+03/19/19  08:02 AM             4,750 contact.handlebars
+03/18/19  10:29 AM               519 example.handlebars
+03/22/19  08:30 AM             4,543 index.handlebars
+03/18/19  10:33 AM    <DIR>          layouts
+03/19/19  08:14 AM             6,325 portfolio.handlebars
+               5 File(s)         16,338 bytes
+
+ Directory of C:\Users\cdonner\Documents\bootcamp\Portfolio-v3\views\layouts
+
+03/18/19  10:33 AM    <DIR>          .
+03/18/19  10:33 AM    <DIR>          ..
+03/20/19  09:48 AM               957 main.handlebars
+               1 File(s)            957 bytes
+
+     Total Files Listed:
+             164 File(s)     10,947,317 bytes
+             336 Dir(s)  641,565,523,968 bytes free
